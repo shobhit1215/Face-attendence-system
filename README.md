@@ -1,3 +1,2 @@
-# One_Shot_Learning
+# FACE ATTENDENCE SYSTEM
 
-## Please refer the document attached to this repo
